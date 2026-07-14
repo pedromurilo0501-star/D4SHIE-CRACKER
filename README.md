@@ -28,7 +28,8 @@ chmod +x painel.py && python3 painel.py
 sudo emerge --ask dev-lang/python dev-python/pip
 pip3 install figlet --break-system-packages
 chmod +x painel.py && python3 painel.py
-# CRAKER
+# CRAKER p1
 cd Downloads && python3 D4shieCrak.py.py
+# CRAKER p2
 chmod +x D4shieCrak.py.py
 
