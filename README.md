@@ -30,4 +30,4 @@ pip3 install figlet --break-system-packages
 chmod +x painel.py && python3 painel.py
 --Craker--
 cd Downloads
-python3 D4shieCrak.py
+python3 D4shieCrak.py.py
